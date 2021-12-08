@@ -1,1 +1,1 @@
-# Weather-GUI
+This is a simple weather gui.
